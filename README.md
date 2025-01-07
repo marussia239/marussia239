@@ -17,7 +17,7 @@ This is my CV 😉 (not sure it's supposed to be that though)
 | :-: | :-: | :-: | :-: |
 |Oct 2019 - Oct 2023|Private Physics Tutor|_self-employed_| Taught high school and olympiad Physics to more than 20 high-school children overall. |
 |Feb 2021 - Jun 2021|Physics Teacher|Evening Physics and Technology School MIPT| Taught olympiad Physics to the group of 15 high-school children. |
-|Mar 2021 - Oct 2022|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Shirshov Institute of Oceanology of Russian Academy of Sciences](https://ocean.ru/en/)| Made research in Oceanology. Wrote conference papers. |
+|Mar 2021 - Oct 2022|Research Assistant|[Shirshov Institute of Oceanology of Russian Academy of Sciences](https://ocean.ru/en/)| Made research in Oceanology. Wrote conference papers. |
 |Aug 2021|Research Assistant in the Sea Expedition|[Shirshov Institute of Oceanology of Russian Academy of Sciences](https://ocean.ru/en/)| Took part in the expedition to Kara Sea in Russian Arctic. Measured physical characteristic of sea water for our research tasks. |
 |Sep 2021 - Mar 2023 | Physics Teacher Assistant | Foxford (https://foxford.ru/) | Сompiled more than 20 collections of the olympiad Physics problems for high-school children. |
 |Jul 2024 - Current|Master Thesis Student|[Visual Computing Group](https://viscom.uni-ulm.de/)| Working on my Masters Thesis in 3D Computer Vision and Medical Imaging. |
