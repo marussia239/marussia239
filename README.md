@@ -50,12 +50,19 @@ Colour coding:
 - 🟣 Python
     - 🟣 numpy 🟣 matplotlib 🟣 pandas
     - 🟢 pytorch
+    - 🟢 monai
     - 🟠 scikit-learn
+    - 🟠 keras
     - 🟠 opencv
     - 🔵 openai
 - 🟠 C++
 - 🔵 MATLAB
 - 🔵 C
+- 🔵 CSS
+- 🔵 HTML
+- ⚪ C#
+- ⚪ pyspark
+- ⚪ protege
 #### Other
 - 🟣 creating lists in markdown
 - 🟣 VSCode
