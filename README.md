@@ -16,17 +16,21 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 ### Work Experience
 | Period | Position | Company | Description |
 | :-: | :-: | :-: | :-: |
-|Oct 2019 - Oct 2022|Private Physics Tutor|_self-employed_| Tutored up to 10 students per week in private sessions using own detailed lesson plans. Taught high school and olympiade level physics. |
+|Oct 2019 - Oct 2023|Private Physics Tutor|_self-employed_| Taught high school and olympiad Physics to more than 20 high-school children overall. |
+|Feb 2021 - Jun 2021|Physics Teacher|Evening Physics and Technology School MIPT| Taught olympiad Physics to the group of 15 high-school children. |
 |Mar 2021 - Oct 2022|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Shirshov Institute of Oceanology of Russian Academy of Sciences](https://ocean.ru/en/)| Made researcg in the field of Oceanology. Wrote conference papers. |
-|July 2024 - Current|Master Thesis Student|[Visual Computing Group](https://viscom.uni-ulm.de/)| Working on my Masters Thesis in 3D Computer Vision and Medical Imaging. |
+|Aug 2021|Research Assistant in the Sea Expedition|[Shirshov Institute of Oceanology of Russian Academy of Sciences](https://ocean.ru/en/)| Took part in the expedition to Kara Sea in Russian Arctic. Measured physical characteristic of sea water for our research tasks. |
+|Jul 2024 - Current|Master Thesis Student|[Visual Computing Group](https://viscom.uni-ulm.de/)| Working on my Masters Thesis in 3D Computer Vision and Medical Imaging. |
 
 <!-- |.|.|.| -->
 ### Research
-|Date|Title & Link|Notes|
+|Date|Title|Notes|
 | :-: | :-: | :-: |
-|Jan 2022|[Reinforcement Learning for Attitude Control of a Spacecraft With Flexible Appendages](https://www.researchgate.net/publication/363840944_REINFORCEMENT_LEARNING_FOR_ATTITUDE_CONTROL_OF_A_SPACECRAFT_WITH_FLEXIBLE_APPENDAGES)|International Astronautical Congress (IAC2022) conference paper|
-|Jun 2022|[Verification of Solutions to Wave Equations Using Integral Transformations](https://www.overleaf.com/read/cscghhcmgjwn#7e5ff8 "link to the Overleaf project")|Bachelor of Science graduation thesis (not published)|
-|Sep 2022|[Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://doi.org/10.22337/2587-9618-2022-18-3-147-158)|Mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS)|
+|Oct 2020| Study of Mixing of the Waters of the Kaliningrad Bay as they Flow Out into the Baltic Sea | MIPT conference paper|
+|Dec 2020| Study of Mixing of the Waters of the Kaliningrad Bay with the Baltic Sea | MARESEDU conference paper|
+|Oct 2021| Study of the Plume of the Pyasina River in the Kara Sea | MIPT conference paper|
+|Dec 2021| Distribution of the Pyasina River Plume into the Kara Sea | MARESEDU conference paper|
+|June 2022| Sea Surface Salinity Retrieval in the Russian Arctic Using SMAP and SMOS Satellite Data with Machine Learning Approach | Bachelors Thesis|
 <!-- |.|.|.| -->
 
 ## **Skills** 📚
