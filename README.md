@@ -95,9 +95,9 @@ Here are _some_ courses I took during my bachelor's and master's studies:
 
 ## **Interests** 🎨
 - guitar
-- hiking
+- traveling
 - learning!
-- cinema (let's talk about movies!)
+- arthouse movies
 
 
 ## **How to reach me** 📫
