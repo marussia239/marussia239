@@ -107,6 +107,4 @@ Send me an email: grigorieva.miu@phystech.edu or
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-grigoreva-/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spicavirginis/)
 
-Many thanks to [Airat Valiullin](https://github.com/rayannott) for providing a draft for this page.
-
-Я осуждаю [агрессию России против Украины](https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%83_(%D1%81_2022)). Мир на Украине 🇺🇦. Свободу России 🇷🇺
+Many thanks to [Airat Valiullin](https://github.com/rayannott) for providing a draft for this page!
