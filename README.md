@@ -6,7 +6,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 ## **Education** 🎓
 |        Period       |      School   |  Programm | Website |
 |:-------------------:|:-------------:|:------:|:-----:|
-| Sep 2011 - Aug 2018 |  Physics and Mathematics Lyceum, Saint Petersburg | high school with a  | [-link-](https://239.ru/) |
+| Sep 2011 - Aug 2018 |  Physics and Mathematics Lyceum 239, Saint Petersburg | high school with in-depth study of Physics and Mathematics and olympiad in these subjects | [-link-](https://239.ru/) |
 | Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  ${\color{LimeGreen}\text{BSc}}$ Applied Mathematics and Physics (4.43/5.00) | [mipt.ru](https://mipt.ru/english/) [wiki](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) |
 | Sep 2023 - March 2024 | University of Ulm | ${\color{LimeGreen}\text{MSc}}$ ERASMUS+ exchange student in Computer Science | [uni-ulm.de](https://www.uni-ulm.de/) [wiki](https://en.wikipedia.org/wiki/University_of_Ulm) |
 | Oct 2022 - July 2025 (expected) | University of Genoa | ${\color{LimeGreen}\text{MSc}}$ Computer Science, AI track | [unige.it](https://unige.it/en) [wiki](https://en.wikipedia.org/wiki/University_of_Genoa) |
