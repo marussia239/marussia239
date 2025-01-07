@@ -64,12 +64,10 @@ Colour coding:
 - ⚪ pyspark
 - ⚪ protege
 #### Other
-- 🟣 creating lists in markdown
 - 🟣 VSCode
-- 🟠 git (in GitHub[actions, pr, issues, etc.], GitLab, TFS)
+- 🟠 git (in GitHub[actions, pr, issues, etc.], GitLab)
 - 🟠 LaTeX
 - 🟠 MSOffice
-- 🔵 SolidWorks
 - 🔵 Linux (Ubuntu)
 
 ## Courses
