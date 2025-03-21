@@ -31,6 +31,7 @@ This is my CV 😉 (not sure it's supposed to be that though)
 |Oct 2021| Study of the Plume of the Pyasina River in the Kara Sea | MIPT conference paper|
 |Dec 2021| Distribution of the Pyasina River Plume into the Kara Sea | MARESEDU conference paper|
 |June 2022| Sea Surface Salinity Retrieval in the Russian Arctic Using SMAP and SMOS Satellite Data with Machine Learning Approach | Bachelors Thesis|
+|March 2025| 2D-to-3D Pretraining | Masters Thesis|
 <!-- |.|.|.| -->
 
 ## **Skills** 📚
