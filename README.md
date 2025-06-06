@@ -46,7 +46,7 @@ This is my CV 😉 (not sure it's supposed to be that though)
 ### Technical Skills
 
 Colour coding: 
-🟣 ${\text{expert}}$, 🟢 ${\text{proficient}}$, 🟠 ${\text{advanced}}$, 🔵 ${\text{competent}}$, ⚪ ${\text{beginner}}$.
+🟣 ${\text{expert}}$, 🟢 ${\text{proficient}}$, 🟠 ${\text{advanced}}$, 🔵 ${\text{competent}}$, ⚪ beginner.
 #### Programming languages
 - 🟣 Python
     - 🟣 numpy 🟣 matplotlib 🟣 pandas
