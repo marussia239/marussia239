@@ -6,9 +6,9 @@ This is my CV 😉 (not sure it's supposed to be that though)
 |        Period       |      School   |  Programm | Website |
 |:-------------------:|:-------------:|:------:|:-----:|
 | Sep 2011 - Aug 2018 |  Physics and Mathematics Lyceum 239, Saint Petersburg | high school with in-depth study of Physics and Mathematics and olympiad in these subjects | [-link-](https://239.ru/) |
-| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  ${\color{LimeGreen}\text{BSc}}$ Applied Mathematics and Physics (4.43/5.00) | [mipt.ru](https://mipt.ru/english/) [wiki](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) |
-| Sep 2023 - Mar 2024 | University of Ulm | ${\color{LimeGreen}\text{MSc}}$ ERASMUS+ exchange student in Computer Science | [uni-ulm.de](https://www.uni-ulm.de/) [wiki](https://en.wikipedia.org/wiki/University_of_Ulm) |
-| Oct 2022 - Mar 2025 | University of Genoa | ${\color{LimeGreen}\text{MSc}}$ Computer Science, AI track (110/110) | [unige.it](https://unige.it/en) [wiki](https://en.wikipedia.org/wiki/University_of_Genoa) |
+| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  `BSc` Applied Mathematics and Physics (4.43/5.00) | [mipt.ru](https://mipt.ru/english/) [wiki](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) |
+| Sep 2023 - Mar 2024 | University of Ulm | `MSc` ERASMUS+ exchange student in Computer Science | [uni-ulm.de](https://www.uni-ulm.de/) [wiki](https://en.wikipedia.org/wiki/University_of_Ulm) |
+| Oct 2022 - Mar 2025 | University of Genoa | `MSc` Computer Science, AI track (110/110) | [unige.it](https://unige.it/en) [wiki](https://en.wikipedia.org/wiki/University_of_Genoa) |
 
 
 ## **Work, research and more** 🧑‍💻
@@ -46,7 +46,7 @@ This is my CV 😉 (not sure it's supposed to be that though)
 ### Technical Skills
 
 Colour coding: 
-🟣 ${\color{Orchid}\text{expert}}$,🟢 ${\color{Green}\text{proficient}}$, 🟠 ${\color{Orange}\text{advanced}}$, 🔵 ${\color{lightblue}\text{competent}}$, ⚪ beginner.
+🟣 ${\text{expert}}$, 🟢 ${\text{proficient}}$, 🟠 ${\text{advanced}}$, 🔵 ${\text{competent}}$, ⚪ ${\text{beginner}}$.
 #### Programming languages
 - 🟣 Python
     - 🟣 numpy 🟣 matplotlib 🟣 pandas
