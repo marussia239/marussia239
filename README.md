@@ -21,6 +21,8 @@ This is my CV 😉 (not sure it's supposed to be that though)
 |Aug 2021|Research Assistant in the Sea Expedition|[Shirshov Institute of Oceanology of Russian Academy of Sciences](https://ocean.ru/en/)| Took part in the expedition to Kara Sea in Russian Arctic. Measured physical characteristic of sea water for our research tasks. |
 |Sep 2021 - Mar 2023 | Physics Teacher Assistant | [Foxford](https://foxford.ru/) | Сompiled more than 20 collections of the olympiad Physics problems for high-school children. |
 |Mar 2024 - Mar 2025|Master Thesis Student|[Visual Computing Group](https://viscom.uni-ulm.de/)| Working on my Masters Thesis in 3D Computer Vision and Medical Imaging. |
+|Jul 2025 - Sep 2025|Data Science Developer|[Genyo.ai](https://genyo.ai/)| Data quality and synthetic data generation for credit-scoring datasets. |
+|Oct 2025 - Current|Data Scientist|[Exis Mobility](https://www.exismobility.com/)| Computer vision and geospatial ML for road infrastructure. |
 
 <!-- |.|.|.| -->
 ### Research
@@ -52,11 +54,12 @@ Colour coding:
     - 🟣 numpy 🟣 matplotlib 🟣 pandas
     - 🟢 pytorch
     - 🟢 monai
-    - 🟠 scikit-learn
+    - 🟢 scikit-learn
     - 🟠 keras
     - 🟠 opencv
     - 🔵 openai
 - 🟠 C++
+- 🔵 SQL
 - 🔵 MATLAB
 - 🔵 C
 - 🔵 CSS
@@ -66,10 +69,10 @@ Colour coding:
 - ⚪ protege
 #### Other
 - 🟣 VSCode
-- 🟠 git (in GitHub[actions, pr, issues, etc.], GitLab)
-- 🟠 LaTeX
-- 🟠 MSOffice
-- 🔵 Linux (Ubuntu)
+- 🟢 git (in GitHub[actions, pr, issues, etc.], GitLab)
+- 🟢 LaTeX
+- 🟢 MSOffice
+- 🟢 Linux (Ubuntu)
 
 ## Courses
 ### University Courses
