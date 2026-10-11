@@ -41,8 +41,8 @@ This is my CV 😉 (not sure it's supposed to be that though)
 | Language   |  Level |
 |----------|:-------:|
 | English | C1 |
-| German | B1 |
-| Italian | A2 |
+| German | B1/B2 |
+| Italian | A2/B1 |
 | Russian | native |
 
 ### Technical Skills
